@@ -21,6 +21,12 @@ These stickers seem to get damaged over time though, so if you know a better pri
 
 
 
+## TODO: Flyer
+
+Really cool would be a nice A6 flyer which quickly explains why ownCloud exists, what it can do, how you can set it up yourself and how you can contribute. A very very short quick intro. The [Jenkins flyer](https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Flyer) is a really good example.
+
+
+
 ## Shirt
 
 ![](ownCloud shirt.png)
