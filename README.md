@@ -19,6 +19,11 @@ The logo is white on dark blue (#1d2d42). It should not be used differently, esp
 Stickers are outdoor foil, DIN A8 (52x74 mm). We always order through [Flyeralarm (German)](http://www.flyeralarm.com/de/shop/configurator/index/id/34/aufkleber-outdoor.html#159=582&160=583&161=615&162=585) and usually get a batch of 2500 for around 35 €.
 These stickers seem to get damaged over time though, so if you know a better printer please let us know.
 
+## Postcard
+
+![](postcard-community.jpg)
+
+The postcard is A6 size and uses the company logo atm.
 
 
 ## TODO: Flyer
