@@ -23,7 +23,7 @@ These stickers seem to get damaged over time though, so if you know a better pri
 
 ![](postcard-community.jpg)
 
-The postcard is A6 size and uses the company logo atm.
+The postcard is A6 size. The PDF file uses the company logo, the svg and jpg's don't. There's a German version, too.
 
 
 ## TODO: Flyer
