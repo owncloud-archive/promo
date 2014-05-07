@@ -23,13 +23,20 @@ These stickers seem to get damaged over time though, so if you know a better pri
 
 ![](postcard-community.jpg)
 
-The postcard is A6 size. The PDF file uses the company logo, the svg and jpg's don't. There's a German version, too.
+The postcard is A6 size. The PDF file uses the company logo, the svg and jpg's don't. There's a German version, too. Tip: print the English version on one side, localized version on the other.
 
 
 ## TODO: Flyer
 
 Really cool would be a nice A6 flyer which quickly explains why ownCloud exists, what it can do, how you can set it up yourself and how you can contribute. A very very short quick intro. The [Jenkins flyer](https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Flyer) is a really good example.
 
+
+## Posters
+
+![](hacking ownCloud poster.png)
+![](create poster.png)
+
+We have two posters you can use to call out to people to join the hacking fun. Feedback welcome!
 
 
 ## Shirt
