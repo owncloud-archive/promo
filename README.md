@@ -8,7 +8,7 @@ ownCloud promotion material like logos, sticker templates, flyers and talk decks
 
 ![](ownCloud logo square.png)
 
-The logo is white on dark blue (#1d2d42). It should not be used differently, especially not inversed. The text can be optionally left out though. The typeface of the logo (or similar ones) should not be used anywhere else. Better use [FreeSans](http://www.gnu.org/software/freefont/), which is an open remake of Helvetica.
+The logo is white on dark blue (#1d2d44). It should not be used differently, especially not inversed. The text can be optionally left out though. The typeface of the logo (or similar ones) should not be used anywhere else. Better use [FreeSans](http://www.gnu.org/software/freefont/), which is an open remake of Helvetica.
 
 
 
