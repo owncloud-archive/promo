@@ -8,7 +8,9 @@ ownCloud promotion material like logos, sticker templates, flyers and talk decks
 
 ![](ownCloud logo square.png)
 
-The logo is white on dark blue (#1d2d44). It should not be used differently, especially not inversed. The text can be optionally left out though. The typeface of the logo (or similar ones) should not be used anywhere else. Better use [FreeSans](http://www.gnu.org/software/freefont/), which is an open remake of Helvetica.
+The logo is white on dark blue (#1d2d44). It should not be used differently, especially not inversed. The name »ownCloud« can be optionally left out though.
+
+The typeface of the logo (or similar ones) should not be used anywhere else. Instead use [Open Sans](https://en.wikipedia.org/wiki/Open_Sans), in regular weight. Use bold sparingly and only for selected emphasis.
 
 
 
@@ -49,4 +51,4 @@ Shirts are navy blue with simple white logo print centered on the chest. The mod
 
 ## Presentation
 
-This presentation is a good start, with simple dark blue background and white [FreeSans](http://www.gnu.org/software/freefont/) for text. But it’s a bit old: It was done in 2011 and first held at [RMLL Strasbourg](http://2011.rmll.info/Presenting-ownCloud), and again at [PHP Usergroup Stuttgart (German)](http://www.phpugs.de/archives/161-Treffen-04.2012,-Vortrag-Vorstellung-des-Projektes-ownCloud.html). It would need to be updated, especially the screenshots.
+This presentation is a good start, with simple dark blue background and white FreeSans (outdated, use Open Sans now) for text. But it’s a bit old: It was done in 2011 and first held at [RMLL Strasbourg](http://2011.rmll.info/Presenting-ownCloud), and again at [PHP Usergroup Stuttgart (German)](http://www.phpugs.de/archives/161-Treffen-04.2012,-Vortrag-Vorstellung-des-Projektes-ownCloud.html). It would need to be updated, especially the screenshots.
