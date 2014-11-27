@@ -51,4 +51,6 @@ Shirts are navy blue with simple white logo print centered on the chest. The mod
 
 ## Presentation
 
-This presentation is a good start, with simple dark blue background and white FreeSans (outdated, use Open Sans now) for text. But it’s a bit old: It was done in 2011 and first held at [RMLL Strasbourg](http://2011.rmll.info/Presenting-ownCloud), and again at [PHP Usergroup Stuttgart (German)](http://www.phpugs.de/archives/161-Treffen-04.2012,-Vortrag-Vorstellung-des-Projektes-ownCloud.html). It would need to be updated, especially the screenshots.
+You can find presentation slides and templates in the Presentation materials sub folder. We're working on more ready-to-use slides there, for now it contains a presentation of ownCloud 7 and templates for LibreOffice and Microsoft Office.
+
+Find presentation tips and information on [this page](https://owncloud.org/events/conference-program/speaking/) on owncloud.org.
