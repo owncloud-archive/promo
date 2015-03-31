@@ -10,6 +10,6 @@ This repo contains the promo materials for the [ownCloud Contributor Conference]
 ![](ownCloud Contributor Conference 300x250.png)
 ![](ownCloud Contributor Conference 300x300.png)
 ![](ownCloud Contributor Conference 460x70.png)
-![](ownCloud Contributor Conference 160x600.png)
+![](ownCloud Contributor Conference banner 160x600.png)
 ![](ownCloud Contributor Conference 728x90.png)
 
