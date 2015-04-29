@@ -18,7 +18,7 @@
    viewBox="0 0 500.00002 399.99329"
    id="svg2982"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ownCloud Contributor Conference banners.svg"><metadata
+   sodipodi:docname="ownCloud release banners.svg"><metadata
      id="metadata2990"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -155,7 +155,7 @@
      id="namedview2986"
      showgrid="false"
      inkscape:zoom="0.91799999"
-     inkscape:cx="402.86662"
+     inkscape:cx="405.04527"
      inkscape:cy="346.17221"
      inkscape:window-x="-2"
      inkscape:window-y="314"
@@ -198,7 +198,7 @@
      inkscape:export-ydpi="90" /><rect
      inkscape:export-ydpi="90"
      inkscape:export-xdpi="90"
-     inkscape:export-filename="/home/jospoortvliet/source code/promo/Contributor Conference/ownCloud Contributor Conference banners.png"
+     inkscape:export-filename="/home/jospoortvliet/source code/promo/Release banners/ownCloud-release-300x300.png"
      y="99.996651"
      x="200.00002"
      height="300"
@@ -211,7 +211,7 @@
      height="250.00002"
      x="540"
      y="149.99664"
-     inkscape:export-filename="/home/jospoortvliet/source code/promo/Contributor Conference/ownCloud Contributor Conference banners.png"
+     inkscape:export-filename="/home/jospoortvliet/source code/promo/Release banners/ownCloud-release-300x250.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" /><rect
      style="fill:url(#linearGradient3089);fill-opacity:1;stroke:none"
@@ -220,12 +220,12 @@
      height="70"
      x="200.00002"
      y="-200.00337"
-     inkscape:export-filename="/home/jospoortvliet/source code/promo/Contributor Conference/ownCloud Contributor Conference banners.png"
+     inkscape:export-filename="/home/jospoortvliet/source code/promo/Release banners/ownCloud-release-460x70.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" /><rect
      inkscape:export-ydpi="90"
      inkscape:export-xdpi="90"
-     inkscape:export-filename="/home/jospoortvliet/source code/promo/Contributor Conference/ownCloud Contributor Conference banners.png"
+     inkscape:export-filename="/home/jospoortvliet/source code/promo/Release banners/ownCloud-release-728x90.png"
      y="-70.003365"
      x="200.00002"
      height="90"
@@ -366,10 +366,10 @@
          height="771.80939"
          x="-24.648603"
          y="-308.64734" /></flowRegion><flowPara
-       id="flowPara3751"></flowPara></flowRoot><rect
+       id="flowPara3751" /></flowRoot><rect
      inkscape:export-ydpi="90"
      inkscape:export-xdpi="90"
-     inkscape:export-filename="/home/jospoortvliet/source code/promo/Contributor Conference/ownCloud Contributor Conference banners.png"
+     inkscape:export-filename="/home/jospoortvliet/source code/promo/Release banners/ownCloud-release-160x600.png"
      y="-200.4082"
      x="0.1079718"
      height="600"
