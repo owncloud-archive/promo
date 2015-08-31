@@ -10,7 +10,7 @@ ownCloud promotion material like logos, sticker templates, flyers and talk decks
 
 The logo is white on dark blue (#1d2d44). It should not be used differently, especially not inversed. The name »ownCloud« can be optionally left out though.
 
-The typeface of the logo (or similar ones) should not be used anywhere else. Instead use [Open Sans](https://en.wikipedia.org/wiki/Open_Sans), in regular weight. Use bold sparingly and only for selected emphasis.
+The typeface of the logo (or similar ones) should not be used anywhere else. Instead use [Open Sans](https://en.wikipedia.org/wiki/Open_Sans), in light weight (not regular!). Use semibold (not bold!) sparingly and only for selected emphasis.
 
 
 
