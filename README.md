@@ -1,3 +1,11 @@
+# DEPRECATED
+
+:exclamation::exclamation::exclamation: 
+__This repository is not longer maintained. Please see [owncloud.com/trademark](https://owncloud.org/trademark) for latest logos and promo material. If you miss anything write us a quick message to community@owncloud.com.__
+
+
+
+
 # Promo
 
 ownCloud promotion material like logos, sticker templates, flyers and talk decks. Everyone is welcome to print material and present ownCloud at events – permission is not needed, everyone can help in the community! See [owncloud.org/events](http://owncloud.org/events) for information and events.
